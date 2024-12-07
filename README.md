@@ -1,3 +1,15 @@
+
+
+
+https://github.com/user-attachments/assets/94a76265-7237-4cd5-a148-7683fbca203f
+
+
+
+
+
+
+
+
 # Fully Local and Dockerized QuakeJS Server
 
 This project enables you to run a fully independent, self-contained QuakeJS server using Docker. The server is entirely local, with no reliance on external providers such as `content.quakejs.com` or `quakejs.com`. Once set up, it requires no internet connection, making it ideal for offline gaming sessions.
